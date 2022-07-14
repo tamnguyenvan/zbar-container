@@ -1,0 +1,3 @@
+pyzbar-x
+pdf2image
+pillow
